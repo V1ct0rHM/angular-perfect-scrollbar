@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "angular": "*",
-    "utatti-perfect-scrollbar": "1.5.5"
+    "utatti-perfect-scrollbar": "https://github.com/mdbootstrap/perfect-scrollbar.git#c3354c072ded7d4b6de5fcef507485dba7f2b067"
   },
   "authors": [
     "Drew Miller",
